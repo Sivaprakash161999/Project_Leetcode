@@ -1,4 +1,9 @@
+from collections import Counter
+import heapq
+
+
 class Solution:
+    # Sorting
     def findLeastNumOfUniqueInts(self, arr: List[int], k: int) -> int:
         '''Count the frequency of each number.
            Sort the frequencies;
@@ -14,9 +19,10 @@ class Solution:
                 return ans
         return ans
 
+    # another approach - using min heap
     def findLeastNumOfUniqueInts(self, arr: List[int], k: int) -> int:
-        # using a heap, instead of sorting
-        # to pick elements with least frequency
+        '''using a heap, instead of sorting
+            to pick elements with least frequency.'''
         c = Counter(arr)
         ans = len(c)
         freq = list(c.values())
