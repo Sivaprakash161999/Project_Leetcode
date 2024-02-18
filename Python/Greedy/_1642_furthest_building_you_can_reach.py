@@ -1,4 +1,5 @@
 import heapq
+from typing import List
 
 class Solution:
     # DP - if input size is 10^5 or more, never use dp
