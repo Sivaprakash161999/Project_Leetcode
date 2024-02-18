@@ -5,6 +5,9 @@
     <td>
     <a href='https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/'>
     Least Number of Unique Integers after K removal</a>
+    <p>
+    <small>array | hash-table | sorting | greedy | counting</small>
+    </p>
     </td>
     <td>
     <a href='/Python/Array/_1481_least_number_of_unique_integers_after_k_removals.py'>solution</a>
@@ -15,6 +18,9 @@
     <td>
     <a href='https://leetcode.com/problems/furthest-building-you-can-reach/description/'
     >Furthest Building You Can Reach</a>
+    <p>
+    <small>array | greedy | heap(priority-queue)</small>
+    </p>
     </td>
     <td>
     <a href='/Python/Greedy/_1642_furthest_building_you_can_reach.py'>solution</a>
@@ -24,13 +30,9 @@
     <td>2402</td>
     <td>
     <a href='https://leetcode.com/problems/meeting-rooms-iii/description/'
-    >Meeting Rooms 3</a><br>
+    >Meeting Rooms 3</a>
     <p>
-    <small>array  |
-    <small>hash-table  |
-    <small>sorting  |
-    <small>heap(priority-queue)  |
-    <small>simulation</small>
+    <small>array | hash-table | sorting | heap(priority-queue) | simulation</small>
     </p>
     </td>
     <td>
