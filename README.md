@@ -24,13 +24,24 @@
     <td>2402</td>
     <td>
     <a href='https://leetcode.com/problems/meeting-rooms-iii/description/'
-    >Meeting Rooms 3</a>
+    >Meeting Rooms 3<br>
+    <small>array  </small>
+    <small>hash-table  </small>
+    <small>sorting  </small>
+    <small>heap(priority-queue)  </small>
+    <small>simulation  </small></a>
     </td>
     <td>
     <a href='/Python/Priority_Queue/_2402_meeting_rooms_3.py'>solution</a>
     </td>
 </tr>
 </table>
+
+<!-- <small>array  </small>
+<small>hash-table  </small>
+<small>sorting  </small>
+<small>heap(priority-queue)  </small>
+<small>simulation  </small> -->
 
 <!-- <tr>
     <td></td>
