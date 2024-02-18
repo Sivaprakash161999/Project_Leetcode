@@ -1,5 +1,10 @@
 
 <table>
+<thead>
+<td>S.No:</td>
+<td>Problem</td>
+<td>Solution</td>
+</thead>
 <tr>
     <td>1481</td>
     <td>
