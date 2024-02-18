@@ -26,11 +26,11 @@
     <a href='https://leetcode.com/problems/meeting-rooms-iii/description/'
     >Meeting Rooms 3</a><br>
     <p>
-    <small>array  </small>
-    <small>hash-table  </small>
-    <small>sorting  </small>
-    <small>heap(priority-queue)  </small>
-    <small>simulation  </small>
+    <small>array  |
+    <small>hash-table  |
+    <small>sorting  |
+    <small>heap(priority-queue)  |
+    <small>simulation</small>
     </p>
     </td>
     <td>
