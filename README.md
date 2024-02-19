@@ -6,7 +6,20 @@
 <td>Solution</td>
 </thead>
 <tr>
-    <td>1481</td>
+    <td>231.</td>
+    <td>
+    <a href='https://leetcode.com/problems/power-of-two/description/'
+    >Power of Two</a>
+    <p>
+    <small>math | bit-manipulation | recursion</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Math\_0231_power_of_two.py'>solution</a>
+    </td>
+</tr>
+<tr>
+    <td>1481.</td>
     <td>
     <a href='https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/'>
     Least Number of Unique Integers after K removal</a>
@@ -19,7 +32,7 @@
     </td>
 </tr>
 <tr>
-    <td>1642</td>
+    <td>1642.</td>
     <td>
     <a href='https://leetcode.com/problems/furthest-building-you-can-reach/description/'
     >Furthest Building You Can Reach</a>
@@ -32,7 +45,7 @@
     </td>
 </tr>
 <tr>
-    <td>2402</td>
+    <td>2402.</td>
     <td>
     <a href='https://leetcode.com/problems/meeting-rooms-iii/description/'
     >Meeting Rooms 3</a>
