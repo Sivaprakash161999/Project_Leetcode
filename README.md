@@ -19,6 +19,19 @@
     </td>
 </tr>
 <tr>
+    <td>268.</td>
+    <td>
+    <a href='https://leetcode.com/problems/missing-number/description/'
+    >Missing Number</a>
+    <p>
+    <small>array | hash-table | math | binary search | bit-manipulation | sorting</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Bit_Manipulation\_0268_missing_number.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1481.</td>
     <td>
     <a href='https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/'>
