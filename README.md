@@ -1,10 +1,23 @@
 
 <table>
 <thead>
-<td>S.No:</td>
+<td>ID.</td>
 <td>Problem</td>
 <td>Solution</td>
 </thead>
+<tr>
+    <td>201</td>
+    <td>
+    <a href='https://leetcode.com/problems/bitwise-and-of-numbers-range/description'
+    >Bitwise AND of Numbers Range</a>
+    <p>
+    <small>bit-manipulation</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Bit_Manipulation\_201_bitwise_and_of_numbers_range.py'>solution</a>
+    </td>
+</tr>
 <tr>
     <td>231.</td>
     <td>
