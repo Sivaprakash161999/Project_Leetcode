@@ -6,7 +6,7 @@
 <td>Solution</td>
 </thead>
 <tr>
-    <td>201</td>
+    <td>201.</td>
     <td>
     <a href='https://leetcode.com/problems/bitwise-and-of-numbers-range/description'
     >Bitwise AND of Numbers Range</a>
@@ -42,6 +42,19 @@
     </td>
     <td>
     <a href='Python\Bit_Manipulation\_0268_missing_number.py'>solution</a>
+    </td>
+</tr>
+<tr>
+    <td>997.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-the-town-judge/description'
+    >Find the Town Judge</a>
+    <p>
+    <small>array | hash-table | graph</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Graph\_0997_find_the_town_judge.py'>solution</a>
     </td>
 </tr>
 <tr>
