@@ -45,6 +45,19 @@
     </td>
 </tr>
 <tr>
+    <td>787.</td>
+    <td>
+    <a href='https://leetcode.com/problems/cheapest-flights-within-k-stops/description'
+    >Cheapest Flights Within K Stops</a>
+    <p>
+    <small>dynamic-programming | dfs | bfs | graph | Heap (priority-queue) | shortest path</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Graph\shortest_path\_0787_cheapest_flights_within_K_stops.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>997.</td>
     <td>
     <a href='https://leetcode.com/problems/find-the-town-judge/description'
