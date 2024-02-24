@@ -19,7 +19,7 @@ class Solution:
             prices = temp
         return -1 if prices[dst] == float('inf') else prices[dst]
 
-    # BFS
+    # BFS - shortest path
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
         adj = defaultdict(list)
         for sc, dt, price in flights:

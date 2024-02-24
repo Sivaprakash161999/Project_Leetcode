@@ -50,7 +50,7 @@
     <a href='https://leetcode.com/problems/cheapest-flights-within-k-stops/description'
     >Cheapest Flights Within K Stops</a>
     <p>
-    <small>dynamic-programming | dfs | bfs | graph | Heap (priority-queue) | shortest path</small>
+    <small>dynamic-programming | dfs | bfs | graph | heap (priority-queue) | shortest path</small>
     </p>
     </td>
     <td>
@@ -94,6 +94,19 @@
     </td>
     <td>
     <a href='/Python/Greedy/_1642_furthest_building_you_can_reach.py'>solution</a>
+    </td>
+</tr>
+<tr>
+    <td>2092.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-all-people-with-secret/description'
+    >Find All People With Secret</a>
+    <p>
+    <small>dfs | bfs | union find | graph | sorting</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Graph\union_find\_2092_find_all_people_with_secret.py'>solution</a>
     </td>
 </tr>
 <tr>
