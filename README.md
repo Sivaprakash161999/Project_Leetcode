@@ -58,6 +58,19 @@
     </td>
 </tr>
 <tr>
+    <td>513.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-bottom-left-tree-value/description'
+    >Find Bottom Left Tree Value</a>
+    <p>
+    <small>tree | bfs | dfs | binary tree</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Tree\_0513_find_bottom_left_tree_value.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>787.</td>
     <td>
     <a href='https://leetcode.com/problems/cheapest-flights-within-k-stops/description'
