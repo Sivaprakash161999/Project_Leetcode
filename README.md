@@ -97,6 +97,19 @@
     </td>
 </tr>
 <tr>
+    <td>1609.</td>
+    <td>
+    <a href='https://leetcode.com/problems/even-odd-tree/description'
+    >Even Odd Tree</a>
+    <p>
+    <small>tree | bfs | binary tree</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Tree\_1609.even_odd_tree.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1642.</td>
     <td>
     <a href='https://leetcode.com/problems/furthest-building-you-can-reach/description/'
