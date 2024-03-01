@@ -161,6 +161,19 @@
     <a href='/Python/Priority_Queue/_2402_meeting_rooms_3.py'>solution</a>
     </td>
 </tr>
+<tr>
+    <td>2864.</td>
+    <td>
+    <a href='https://leetcode.com/problems/maximum-odd-binary-number/description'
+    >Maximum Odd Binary Number</a>
+    <p>
+    <small>string | greedy | math</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\String\_2864_maximum_odd_binary_number.py'>solution</a>
+    </td>
+</tr>
 </table>
 
 <!-- <small>array  </small>
