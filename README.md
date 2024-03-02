@@ -84,6 +84,19 @@
     </td>
 </tr>
 <tr>
+    <td>977.</td>
+    <td>
+    <a href='https://leetcode.com/problems/squares-of-a-sorted-array/description'
+    >Squares of a Sorted Array</a>
+    <p>
+    <small>array | two pointers | sorting</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Two_Pointer\_0977_squares_of_a_sorted_array.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>997.</td>
     <td>
     <a href='https://leetcode.com/problems/find-the-town-judge/description'
