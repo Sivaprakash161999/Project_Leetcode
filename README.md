@@ -6,6 +6,19 @@
 <td>Solution</td>
 </thead>
 <tr>
+    <td>19.</td>
+    <td>
+    <a href='https://leetcode.com/problems/remove-nth-node-from-end-of-list/description'
+    >Remove Nth Node From End of List</a>
+    <p>
+    <small>linked list | two pointer</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Linked List\_0019_remove_nth_node_from_end_of_list.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>100.</td>
     <td>
     <a href='https://leetcode.com/problems/same-tree/description/'
