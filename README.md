@@ -97,6 +97,19 @@
     </td>
 </tr>
 <tr>
+    <td>948.</td>
+    <td>
+    <a href='https://leetcode.com/problems/bag-of-tokens/description'
+    >Bag of Tokens</a>
+    <p>
+    <small>array | two pointers | sorting | greedy</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Greedy\_0948_bag_of_tokens.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>977.</td>
     <td>
     <a href='https://leetcode.com/problems/squares-of-a-sorted-array/description'
