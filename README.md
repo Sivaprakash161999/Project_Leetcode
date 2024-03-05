@@ -175,6 +175,19 @@
     </td>
 </tr>
 <tr>
+    <td>1750.</td>
+    <td>
+    <a href='https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description'
+    >Minimum Length of String After Deleting Similar Ends</a>
+    <p>
+    <small>two-pointer | string</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Two_Pointer\_1750_minimum_length_of_string_after_deleting_similar_ends.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2092.</td>
     <td>
     <a href='https://leetcode.com/problems/find-all-people-with-secret/description'
