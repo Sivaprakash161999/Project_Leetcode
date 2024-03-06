@@ -36,12 +36,12 @@
     <td>
     <a href='https://leetcode.com/problems/linked-list-cycle/description'
     >Linked List Cycle</a>
-    </td>
-    <td>
-    <a href='Python\Linked List\_0141_Linked_List_Cycle.py'>solution</a>
     <p>
     <small>hash table | linked list | two pointers</small>
     </p>
+    </td>
+    <td>
+    <a href='Python\Linked List\_0141_Linked_List_Cycle.py'>solution</a>
     </td>
 </tr>
 <tr>
