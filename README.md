@@ -110,6 +110,19 @@
     </td>
 </tr>
 <tr>
+    <td>876.</td>
+    <td>
+    <a href=''
+    >Middle of the Linked List</a>
+    <p>
+    <small>linked list | two pointers</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Linked List\_0876_middle_of_the_linked_list.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>948.</td>
     <td>
     <a href='https://leetcode.com/problems/bag-of-tokens/description'
