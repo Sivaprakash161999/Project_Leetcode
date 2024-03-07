@@ -1,11 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body
+		{
+		    counter-reset: Serial;          
+		}
 
+		table
+		{
+		    border-collapse: separate;
+		}
+
+		tr td:first-child:before
+		{
+		  counter-increment: Serial;      
+		  content: counter(Serial); 
+		}
+	</style>
+</head>
+
+<body>
 <table>
-<thead>
-<td>ID.</td>
-<td>Problem</td>
-<td>Solution</td>
-</thead>
 <tr>
+<th>S.No:</th>
+<th>ID.</th>
+<th>Problem</th>
+<th>Solution</th>
+</tr>
+<tr>
+    <td></td>
     <td>19.</td>
     <td>
     <a href='https://leetcode.com/problems/remove-nth-node-from-end-of-list/description'
@@ -19,6 +44,7 @@
     </td>
 </tr>
 <tr>
+    <td></td>
     <td>100.</td>
     <td>
     <a href='https://leetcode.com/problems/same-tree/description/'
@@ -32,6 +58,7 @@
     </td>
 </tr>
 <tr>
+    <td></td>
     <td>141.</td>
     <td>
     <a href='https://leetcode.com/problems/linked-list-cycle/description'
@@ -45,6 +72,7 @@
     </td>
 </tr>
 <tr>
+    <td></td>
     <td>201.</td>
     <td>
     <a href='https://leetcode.com/problems/bitwise-and-of-numbers-range/description'
@@ -253,6 +281,7 @@
     </td>
 </tr>
 </table>
+</body>
 
 <!-- <small>array  </small>
 <small>hash-table  </small>
