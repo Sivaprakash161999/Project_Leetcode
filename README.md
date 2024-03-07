@@ -112,7 +112,7 @@
 <tr>
     <td>876.</td>
     <td>
-    <a href=''
+    <a href='https://leetcode.com/problems/middle-of-the-linked-list/description'
     >Middle of the Linked List</a>
     <p>
     <small>linked list | two pointers</small>
