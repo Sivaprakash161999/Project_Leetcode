@@ -252,6 +252,19 @@
     <a href='Python\String\_2864_maximum_odd_binary_number.py'>solution</a>
     </td>
 </tr>
+<tr>
+    <td>3005.</td>
+    <td>
+    <a href='https://leetcode.com/problems/count-elements-with-maximum-frequency/description'
+    >Count Elements With Maximum Frequency</a>
+    <p>
+    <small>array | hash table | counting</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Hash_Table\_3005_count_elements_with_maximum_frequency.py'>solution</a>
+    </td>
+</tr>
 </table>
 
 <!-- <small>array  </small>
