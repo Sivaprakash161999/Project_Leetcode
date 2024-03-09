@@ -240,6 +240,18 @@
     </td>
 </tr>
 <tr>
+    <td>2540.</td>
+    <td>
+    <a href='https://leetcode.com/problems/minimum-common-value/description'
+    >Miminum Common Value</a>
+    <small>array | hash-table | two pointer | binary search</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Two_Pointer\_2540_minimum_common_value.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2864.</td>
     <td>
     <a href='https://leetcode.com/problems/maximum-odd-binary-number/description'
