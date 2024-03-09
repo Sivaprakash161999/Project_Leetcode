@@ -244,6 +244,7 @@
     <td>
     <a href='https://leetcode.com/problems/minimum-common-value/description'
     >Miminum Common Value</a>
+    <p>
     <small>array | hash-table | two pointer | binary search</small>
     </p>
     </td>
