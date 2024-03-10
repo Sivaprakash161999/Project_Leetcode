@@ -84,6 +84,19 @@
     </td>
 </tr>
 <tr>
+    <td>349.</td>
+    <td>
+    <a href='https://leetcode.com/problems/intersection-of-two-arrays/description'
+    >Intersection of Two Arrays</a>
+    <p>
+    <small>array | hash table | two pointers | binary search | sorting</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Hash_Table\_0349_intersection_of_two_arrays.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>513.</td>
     <td>
     <a href='https://leetcode.com/problems/find-bottom-left-tree-value/description'
