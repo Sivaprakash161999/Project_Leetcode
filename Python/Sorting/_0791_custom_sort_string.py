@@ -19,7 +19,7 @@ class Solution:
                 count[idx] = 0
         return ''.join(ans)
 
-    # hash map and custom comparator - 
+    # hash map and custom comparator - O(nlogn) time; O(26) space
     def customSortString(self, order: str, s: str) -> str:
         h = defaultdict(int)
         for i, c in enumerate(order):
