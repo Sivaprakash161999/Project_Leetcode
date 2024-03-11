@@ -123,6 +123,19 @@
     </td>
 </tr>
 <tr>
+    <td>791.</td>
+    <td>
+    <a href='https://leetcode.com/problems/custom-sort-string/description/'
+    >Custom Sort String</a>
+    <p>
+    <small>hash table | sorting | string</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sorting\_0791_custom_sort_string.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>876.</td>
     <td>
     <a href='https://leetcode.com/problems/middle-of-the-linked-list/description'
