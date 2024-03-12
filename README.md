@@ -15,7 +15,7 @@
     </p>
     </td>
     <td>
-    <a href='Python\Linked List\_0019_remove_nth_node_from_end_of_list.py'>solution</a>
+    <a href='Python\Linked_List\_0019_remove_nth_node_from_end_of_list.py'>solution</a>
     </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@
     </p>
     </td>
     <td>
-    <a href='Python\Linked List\_0141_Linked_List_Cycle.py'>solution</a>
+    <a href='Python\Linked_List\_0141_Linked_List_Cycle.py'>solution</a>
     </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@
     </p>
     </td>
     <td>
-    <a href='Python\Linked List\_0876_middle_of_the_linked_list.py'>solution</a>
+    <a href='Python\Linked_List\_0876_middle_of_the_linked_list.py'>solution</a>
     </td>
 </tr>
 <tr>
@@ -185,6 +185,19 @@
     </td>
     <td>
     <a href='Python\Graph\_0997_find_the_town_judge.py'>solution</a>
+    </td>
+</tr>
+<tr>
+    <td>1171.</td>
+    <td>
+    <a href='https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description'
+    >Remove Zero Sum Consecutive Nodes from Linked List</a>
+    <p>
+    <small>hash table | linked list | prefix sum</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Linked_List\_1171_remove_zero_sum_consecutive_nodes_from_linked_list.py'>solution</a>
     </td>
 </tr>
 <tr>
