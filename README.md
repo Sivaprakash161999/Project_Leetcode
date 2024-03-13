@@ -279,6 +279,19 @@
     </td>
 </tr>
 <tr>
+    <td>2485.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-the-pivot-integer/description'
+    >Find the Pivot Integer</a>
+    <p>
+    <small>math | prefix sum</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Math\_2485_find_the_pivot_integer.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2540.</td>
     <td>
     <a href='https://leetcode.com/problems/minimum-common-value/description'
