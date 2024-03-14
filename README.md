@@ -149,6 +149,19 @@
     </td>
 </tr>
 <tr>
+    <td>930.</td>
+    <td>
+    <a href='https://leetcode.com/problems/binary-subarrays-with-sum/description'
+    >Binary Subarrays With Sum</a>
+    <p>
+    <small>array | hash table | prefix sum | sliding window</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sliding_Window\_0930_binary_subarrays_with_sum.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>948.</td>
     <td>
     <a href='https://leetcode.com/problems/bag-of-tokens/description'
