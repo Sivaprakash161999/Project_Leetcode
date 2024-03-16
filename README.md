@@ -71,6 +71,19 @@
     </td>
 </tr>
 <tr>
+    <td>238.</td>
+    <td>
+    <a href='https://leetcode.com/problems/product-of-array-except-self/description'
+    >Product of Array Except Self</a>
+    <p>
+    <small>array | prefix sum</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Prefix_sum\_0238_product_of_array_except_self.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>268.</td>
     <td>
     <a href='https://leetcode.com/problems/missing-number/description/'
@@ -107,6 +120,19 @@
     </td>
     <td>
     <a href='Python\Binary_Tree\_0513_find_bottom_left_tree_value.py'>solution</a>
+    </td>
+</tr>
+<tr>
+    <td>525.</td>
+    <td>
+    <a href='https://leetcode.com/problems/contiguous-array/description'
+    >Contiguous Array</a>
+    <p>
+    <small>array | hash table | prefix sum</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Prefix_sum\_0525_contiguous_array.py'>solution</a>
     </td>
 </tr>
 <tr>
