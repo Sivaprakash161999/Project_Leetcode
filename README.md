@@ -122,6 +122,19 @@
     </td>
 </tr>
 <tr>
+    <td>452.</td>
+    <td>
+    <a href='https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description'
+    >Minimum Number of Arrows to Burst Balloons</a>
+    <p>
+    <small>array | sorting | greedy</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sorting\_0452_minimum_number_of_arrows_to_burst_balloons.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>513.</td>
     <td>
     <a href='https://leetcode.com/problems/find-bottom-left-tree-value/description'
