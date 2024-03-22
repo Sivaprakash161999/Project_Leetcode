@@ -70,6 +70,19 @@
     </td>
 </tr>
 <tr>
+    <td>206.</td>
+    <td>
+    <a href='https://leetcode.com/problems/reverse-linked-list/description'
+    >Reverse Linked List</a>
+    <p>
+    <small>linked list | recursion</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Linked_List\_0206_reverse_linked_list.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>231.</td>
     <td>
     <a href='https://leetcode.com/problems/power-of-two/description/'
