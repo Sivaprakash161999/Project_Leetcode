@@ -135,6 +135,19 @@
     </td>
 </tr>
 <tr>
+    <td>287.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-the-duplicate-number/description'
+    >Find the Duplicate Number</a>
+    <p>
+    <small>array | two pointers | binary search | bit manipulation</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Bit_Manipulation\_0287_find_the_duplicate_number.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>349.</td>
     <td>
     <a href='https://leetcode.com/problems/intersection-of-two-arrays/description'
