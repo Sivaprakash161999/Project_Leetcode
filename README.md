@@ -161,6 +161,19 @@
     </td>
 </tr>
 <tr>
+    <td>442.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-all-duplicates-in-an-array/description'
+    >Find All Duplicates in an Array</a>
+    <p>
+    <small>array | hash table</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Array\_0442_find_all_duplicates_in_an_array.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>452.</td>
     <td>
     <a href='https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description'
