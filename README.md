@@ -19,6 +19,19 @@
     </td>
 </tr>
 <tr>
+    <td>41.</td>
+    <td>
+    <a href='https://leetcode.com/problems/first-missing-positive/description'
+    >First Missing Positive</a>
+    <p>
+    <small>array | hash table</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Array\_0041_first_missing_positive.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>57.</td>
     <td>
     <a href='https://leetcode.com/problems/insert-interval/description'
