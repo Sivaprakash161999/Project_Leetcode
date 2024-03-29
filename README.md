@@ -447,6 +447,19 @@
     </td>
 </tr>
 <tr>
+    <td>2962.</td>
+    <td>
+    <a href='https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description'
+    >Count Subarrays Where Max Element Appears at Least K Times</a>
+    <p>
+    <small>array | sliding window</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sliding_Window\_2962_count_subarrays_where_max_element_appears_atleast_k_times.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>3005.</td>
     <td>
     <a href='https://leetcode.com/problems/count-elements-with-maximum-frequency/description'
