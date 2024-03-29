@@ -447,6 +447,19 @@
     </td>
 </tr>
 <tr>
+    <td>2958.</td>
+    <td>
+    <a href='https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description'
+    >Length of Longest Subarray With at Most K Frequency</a>
+    <p>
+    <small>array | hash table | sliding window</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sliding_Window\_2958_length_of_longest_subarray_with_atmost_k_frequency.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2962.</td>
     <td>
     <a href='https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description'
