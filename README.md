@@ -304,6 +304,19 @@
     </td>
 </tr>
 <tr>
+    <td>992.</td>
+    <td>
+    <a href='https://leetcode.com/problems/subarrays-with-k-different-integers/description'
+    >Subarrays with K Different Integers</a>
+    <p>
+    <small>array | hash-table | sliding window | counting</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sliding_Window\_0992_subarrays_with_k_different_integers.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>997.</td>
     <td>
     <a href='https://leetcode.com/problems/find-the-town-judge/description'
