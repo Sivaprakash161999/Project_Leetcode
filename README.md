@@ -45,6 +45,19 @@
     </td>
 </tr>
 <tr>
+    <td>58.</td>
+    <td>
+    <a href='https://leetcode.com/problems/length-of-last-word/description'
+    >Length of Last Word</a>
+    <p>
+    <small>string</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\String\_0058_length_of_last_word.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>100.</td>
     <td>
     <a href='https://leetcode.com/problems/same-tree/description/'>Same Tree</a>
