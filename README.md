@@ -434,6 +434,19 @@
     </td>
 </tr>
 <tr>
+    <td>2444.</td>
+    <td>
+    <a href='https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description'
+    >Count Subarrays With Fixed Bounds</a>
+    <p>
+    <small>array | queue | sliding window | monotonic queue</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sliding_Window\_2444_count_subarrays_with_fixed_bounds.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2485.</td>
     <td>
     <a href='https://leetcode.com/problems/find-the-pivot-integer/description'
