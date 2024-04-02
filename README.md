@@ -96,6 +96,19 @@
     </td>
 </tr>
 <tr>
+    <td>205.</td>
+    <td>
+    <a href='https://leetcode.com/problems/isomorphic-strings/description'
+    >Isomorphic Strings</a>
+    <p>
+    <small>hash table | string</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\String\_0205_isomorphic_strings.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>206.</td>
     <td>
     <a href='https://leetcode.com/problems/reverse-linked-list/description'
