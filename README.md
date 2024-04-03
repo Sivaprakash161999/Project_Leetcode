@@ -58,6 +58,19 @@
     </td>
 </tr>
 <tr>
+    <td>79.</td>
+    <td>
+    <a href='https://leetcode.com/problems/word-search/description'
+    >Word Search</a>
+    <p>
+    <small>array | string | backtracking | matrix</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Backtracking\_0079_word_search.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>100.</td>
     <td>
     <a href='https://leetcode.com/problems/same-tree/description/'>Same Tree</a>
