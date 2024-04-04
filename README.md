@@ -408,6 +408,19 @@
     </td>
 </tr>
 <tr>
+    <td>1614.</td>
+    <td>
+    <a href='https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description'
+    >Maximum Nesting Depth of the Parentheses</a>
+    <p>
+    <small>string | stack</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Stack\_1614_maximum_nesting_depth_of_the_parentheses.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1642.</td>
     <td>
     <a href='https://leetcode.com/problems/furthest-building-you-can-reach/description/'
