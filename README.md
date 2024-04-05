@@ -395,6 +395,19 @@
     </td>
 </tr>
 <tr>
+    <td>1544.</td>
+    <td>
+    <a href='https://leetcode.com/problems/make-the-string-great/description'
+    >Make The String Great</a>
+    <p>
+    <small>string | stack</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Stack\_1544_make_the_string_great.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1609.</td>
     <td>
     <a href='https://leetcode.com/problems/even-odd-tree/description'
