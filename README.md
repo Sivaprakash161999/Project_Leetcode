@@ -382,6 +382,19 @@
     </td>
 </tr>
 <tr>
+    <td>1249.</td>
+    <td>
+    <a href='https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description'
+    >Minimum Remove to Make Valid Parentheses</a>
+    <p>
+    <small>stack | string</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Stack\_1249_minimum_remove_to_make_valid_parentheses.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1481.</td>
     <td>
     <a href='https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/'>
