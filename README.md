@@ -265,6 +265,19 @@
     </td>
 </tr>
 <tr>
+    <td>678.</td>
+    <td>
+    <a href='https://leetcode.com/problems/valid-parenthesis-string/description'
+    >Valid Parenthesis String</a>
+    <p>
+    <small>dynamic-programming | string | stack | greedy | two-pointer</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Stack\_0678_valid_parenthesis_string.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>787.</td>
     <td>
     <a href='https://leetcode.com/problems/cheapest-flights-within-k-stops/description'
