@@ -473,6 +473,19 @@
     </td>
 </tr>
 <tr>
+    <td>1700.</td>
+    <td>
+    <a href='https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description'
+    >Number of Students Unable to Eat Lunch</a>
+    <p>
+    <small>array | stack | queue | simulation</small>
+    </p>
+    </td>
+    <td>
+    <a href=''>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1750.</td>
     <td>
     <a href='https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description'
