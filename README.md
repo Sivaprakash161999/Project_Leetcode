@@ -482,7 +482,7 @@
     </p>
     </td>
     <td>
-    <a href=''>solution</a>
+    <a href='Python\Queue\_1700_number_of_students_unable_to_eat_lunch.py'>solution</a>
     </td>
 </tr>
 <tr>
