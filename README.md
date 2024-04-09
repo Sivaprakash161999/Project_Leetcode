@@ -499,6 +499,19 @@
     </td>
 </tr>
 <tr>
+    <td>2073.</td>
+    <td>
+    <a href='https://leetcode.com/problems/time-needed-to-buy-tickets/description'
+    >Time Needed to Buy Tickets</a>
+    <p>
+    <small>array | queue | simulation</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Queue\_2073_time_needed_to_buy_tickets.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2092.</td>
     <td>
     <a href='https://leetcode.com/problems/find-all-people-with-secret/description'
