@@ -343,6 +343,19 @@
     </td>
 </tr>
 <tr>
+    <td>950.</td>
+    <td>
+    <a href='https://leetcode.com/problems/reveal-cards-in-increasing-order/description/'
+    >Reveal Cards In Increasing Order</a>
+    <p>
+    <small>array | two pointers | sorting | queue | simulation</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Queue\_0950_reveal_cards_in_increasing_order.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>977.</td>
     <td>
     <a href='https://leetcode.com/problems/squares-of-a-sorted-array/description'
