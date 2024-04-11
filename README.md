@@ -213,6 +213,19 @@
     </td>
 </tr>
 <tr>
+    <td>402.</td>
+    <td>
+    <a href='https://leetcode.com/problems/remove-k-digits/description'
+    >Remove K Digits</a>
+    <p>
+    <small>string | stack | greedy | monotonic stack</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Stack\Monotonic_Stack\_0402_remove_k_digits.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>442.</td>
     <td>
     <a href='https://leetcode.com/problems/find-all-duplicates-in-an-array/description'
