@@ -71,6 +71,19 @@
     </td>
 </tr>
 <tr>
+    <td>85.</td>
+    <td>
+    <a href='https://leetcode.com/problems/maximal-rectangle/description'
+    >Maximal Rectangle</a>
+    <p>
+    <small>array | dynamic programming | stack | matrix | monotonic stack</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Stack\Monotonic_Stack\_0085_maximal_rectangle.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>100.</td>
     <td>
     <a href='https://leetcode.com/problems/same-tree/description/'>Same Tree</a>
