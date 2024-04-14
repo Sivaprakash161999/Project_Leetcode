@@ -239,6 +239,19 @@
     </td>
 </tr>
 <tr>
+    <td>404.</td>
+    <td>
+    <a href='https://leetcode.com/problems/sum-of-left-leaves/description'
+    >Sum of Left Leaves</a>
+    <p>
+    <small>tree | dfs | bfs | binary tree</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Tree\_0404_sum_of_left_leaves.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>442.</td>
     <td>
     <a href='https://leetcode.com/problems/find-all-duplicates-in-an-array/description'
