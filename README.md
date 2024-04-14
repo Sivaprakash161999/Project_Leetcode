@@ -32,6 +32,19 @@
     </td>
 </tr>
 <tr>
+    <td>42.</td>
+    <td>
+    <a href='https://leetcode.com/problems/trapping-rain-water/description'
+    >Trapping Rain Water</a>
+    <p>
+    <small>array | two pointers | dynamic programming | stack | monotonic stack</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Two_Pointer\_0042_trapping_rain_water.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>57.</td>
     <td>
     <a href='https://leetcode.com/problems/insert-interval/description'
