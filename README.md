@@ -330,6 +330,19 @@
     </td>
 </tr>
 <tr>
+    <td>623.</td>
+    <td>
+    <a href='https://leetcode.com/problems/add-one-row-to-tree/description'
+    >Add One Row to Tree</a>
+    <p>
+    <small>tree | dfs | bfs |  | binary tree</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Tree\_0623_add_one_row_to_tree.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>678.</td>
     <td>
     <a href='https://leetcode.com/problems/valid-parenthesis-string/description'
