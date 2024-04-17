@@ -335,7 +335,7 @@
     <a href='https://leetcode.com/problems/add-one-row-to-tree/description'
     >Add One Row to Tree</a>
     <p>
-    <small>tree | dfs | bfs |  | binary tree</small>
+    <small>tree | dfs | bfs | binary tree</small>
     </p>
     </td>
     <td>
@@ -444,6 +444,19 @@
     </td>
     <td>
     <a href='Python\Two_Pointer\_0977_squares_of_a_sorted_array.py'>solution</a>
+    </td>
+</tr>
+<tr>
+    <td>988.</td>
+    <td>
+    <a href='https://leetcode.com/problems/smallest-string-starting-from-leaf/description'
+    >Smallest String Starting From Leaf</a>
+    <p>
+    <small>string | tree | dfs | binary tree</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Tree\_0988_smallest_string_starting_from_leaf.py'>solution</a>
     </td>
 </tr>
 <tr>
