@@ -135,6 +135,19 @@
     </td>
 </tr>
 <tr>
+    <td>200.</td>
+    <td>
+    <a href='https://leetcode.com/problems/number-of-islands/description'
+    >Number of Islands</a>
+    <p>
+    <small>array | dfs | bfs | union find | matrix</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Matrix\_0200_number_of_islands.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>201.</td>
     <td>
     <a href='https://leetcode.com/problems/bitwise-and-of-numbers-range/description'
