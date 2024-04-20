@@ -629,6 +629,19 @@
     </td>
 </tr>
 <tr>
+    <td>1992.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-all-groups-of-farmland/description'
+    >Find All Groups of Farmland</a>
+    <p>
+    <small>array | dfs | bfs | matrix</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Matrix\_1992_find_all_groups_of_farmland.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2073.</td>
     <td>
     <a href='https://leetcode.com/problems/time-needed-to-buy-tickets/description'
