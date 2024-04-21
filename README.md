@@ -629,6 +629,19 @@
     </td>
 </tr>
 <tr>
+    <td>1971.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-if-path-exists-in-graph/description'
+    >Find if Path Exists in Graph</a>
+    <p>
+    <small>graph | dfs | bfs | union find</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Graph\union_find\_1971_find_if_path_exists_in_graph.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1992.</td>
     <td>
     <a href='https://leetcode.com/problems/find-all-groups-of-farmland/description'
