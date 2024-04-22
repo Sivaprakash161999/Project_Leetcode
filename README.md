@@ -382,6 +382,19 @@
     </td>
 </tr>
 <tr>
+    <td>752.</td>
+    <td>
+    <a href='https://leetcode.com/problems/open-the-lock/description'
+    >Open the Lock</a>
+    <p>
+    <small>array | hashtable | string | bfs</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Graph\shortest_path\_0752_open_the_lock.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>787.</td>
     <td>
     <a href='https://leetcode.com/problems/cheapest-flights-within-k-stops/description'
