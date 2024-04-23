@@ -252,6 +252,19 @@
     </td>
 </tr>
 <tr>
+    <td>310.</td>
+    <td>
+    <a href='https://leetcode.com/problems/minimum-height-trees/description'
+    >Minimum Height Trees</a>
+    <p>
+    <small>bfs | dfs | graph | topological sort</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Graph\_0310_minimum_height_trees.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>349.</td>
     <td>
     <a href='https://leetcode.com/problems/intersection-of-two-arrays/description'
