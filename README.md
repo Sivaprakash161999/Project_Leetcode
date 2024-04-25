@@ -720,6 +720,19 @@
     </td>
 </tr>
 <tr>
+    <td>2370.</td>
+    <td>
+    <a href='https://leetcode.com/problems/longest-ideal-subsequence/description'
+    >Longest Ideal Subsequence</a>
+    <p>
+    <small>hash table | string | dynamic programming</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Dynamic_Programming\_2370_longest_ideal_subsequence.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2402.</td>
     <td>
     <a href='https://leetcode.com/problems/meeting-rooms-iii/description/'
