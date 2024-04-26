@@ -538,6 +538,19 @@
     </td>
 </tr>
 <tr>
+    <td>1137.</td>
+    <td>
+    <a href='https://leetcode.com/problems/n-th-tribonacci-number/description'
+    >N-th Tribonacci Number</a>
+    <p>
+    <small>math | dynamic programming | memoization</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Dynamic_Programming\_1137_nth_tribonacci_number.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1171.</td>
     <td>
     <a href='https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description'
@@ -564,16 +577,16 @@
     </td>
 </tr>
 <tr>
-    <td>1137.</td>
+    <td>1289.</td>
     <td>
-    <a href='https://leetcode.com/problems/n-th-tribonacci-number/description'
-    >N-th Tribonacci Number</a>
+    <a href='https://leetcode.com/problems/minimum-falling-path-sum-ii/description'
+    >Minimum Falling Path Sum II</a>
     <p>
-    <small>math | dynamic programming | memoization</small>
+    <small>array | dynamic programming | matrix</small>
     </p>
     </td>
     <td>
-    <a href='Python\Dynamic_Programming\_1137_nth_tribonacci_number.py'>solution</a>
+    <a href='Python\Dynamic_Programming\_1289_minimum_falling_path_sum_II.py'>solution</a>
     </td>
 </tr>
 <tr>
