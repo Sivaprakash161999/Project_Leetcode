@@ -356,6 +356,19 @@
     </td>
 </tr>
 <tr>
+    <td>514.</td>
+    <td>
+    <a href='https://leetcode.com/problems/freedom-trail/description'
+    >Freedom Trail</a>
+    <p>
+    <small>string | dyanmic programming | Dijkstra's | dfs | bfs</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Dynamic_Programming\_0514_freedom_trail.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>525.</td>
     <td>
     <a href='https://leetcode.com/problems/contiguous-array/description'
