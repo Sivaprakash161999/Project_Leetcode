@@ -447,6 +447,19 @@
     </td>
 </tr>
 <tr>
+    <td>834.</td>
+    <td>
+    <a href='https://leetcode.com/problems/sum-of-distances-in-tree/description'
+    >Sum of Distances in Tree</a>
+    <p>
+    <small>dynamic programming | dfs | tree | graph</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Dynamic_Programming\_0834_sum_of_distances_in_tree.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>876.</td>
     <td>
     <a href='https://leetcode.com/problems/middle-of-the-linked-list/description'
