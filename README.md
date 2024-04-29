@@ -863,6 +863,19 @@
     </td>
 </tr>
 <tr>
+    <td>2997.</td>
+    <td>
+    <a href='https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description'
+    >Minimum Number of Operations to Make Array XOR Equal to K</a>
+    <p>
+    <small>array | bit manipulation</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Bit_Manipulation\_2997_minimum_number_of_operations_to_make_array_xor_equal_to_k.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>3005.</td>
     <td>
     <a href='https://leetcode.com/problems/count-elements-with-maximum-frequency/description'
