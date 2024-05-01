@@ -707,6 +707,19 @@
     </td>
 </tr>
 <tr>
+    <td>1915.</td>
+    <td>
+    <a href='https://leetcode.com/problems/number-of-wonderful-substrings/description'
+    >Number of Wonderful Substrings</a>
+    <p>
+    <small>hash table | string | bit manipulation | prefix sum</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Bit_Manipulation\_1915_number_of_wonderful_substrings.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1971.</td>
     <td>
     <a href='https://leetcode.com/problems/find-if-path-exists-in-graph/description'
