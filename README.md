@@ -746,6 +746,19 @@
     </td>
 </tr>
 <tr>
+    <td>2000.</td>
+    <td>
+    <a href='https://leetcode.com/problems/reverse-prefix-of-word/description'
+    >Reverse Prefix of Word</a>
+    <p>
+    <small>string | two pointer</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\String\_2000_reverse_prefix_of_word.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2073.</td>
     <td>
     <a href='https://leetcode.com/problems/time-needed-to-buy-tickets/description'
