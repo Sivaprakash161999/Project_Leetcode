@@ -811,6 +811,19 @@
     </td>
 </tr>
 <tr>
+    <td>2441.</td>
+    <td>
+    <a href='https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description'
+    >Largest Positive Integer That Exists With Its Negative</a>
+    <p>
+    <small>array | hash table | two pointer | string</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Hash_Table\_2441_largest_positive_integer_that_exists_with_its_negative.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2444.</td>
     <td>
     <a href='https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description'
