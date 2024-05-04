@@ -486,6 +486,19 @@
     </td>
 </tr>
 <tr>
+    <td>881.</td>
+    <td>
+    <a href='https://leetcode.com/problems/boats-to-save-people/description'
+    >Boats to Save People</a>
+    <p>
+    <small>array | two pointer | greedy | sorting</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Greedy\_0881_boats_to_save_people.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>930.</td>
     <td>
     <a href='https://leetcode.com/problems/binary-subarrays-with-sum/description'
