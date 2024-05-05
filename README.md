@@ -226,6 +226,19 @@
     </td>
 </tr>
 <tr>
+    <td>237.</td>
+    <td>
+    <a href='https://leetcode.com/problems/delete-node-in-a-linked-list/description'
+    >Delete Node in a Linked List</a>
+    <p>
+    <small>linked list</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Linked_List\_0237_delete_node_in_a_linked_list.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>238.</td>
     <td>
     <a href='https://leetcode.com/problems/product-of-array-except-self/description'
