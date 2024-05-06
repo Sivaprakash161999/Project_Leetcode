@@ -889,6 +889,19 @@
     </td>
 </tr>
 <tr>
+    <td>2487.</td>
+    <td>
+    <a href='https://leetcode.com/problems/remove-nodes-from-linked-list/description'
+    >Remove Nodes From Linked List</a>
+    <p>
+    <small>linked list | stack | recursion | monotonic stack</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Linked_List\_2487_remove_nodes_from_linked_list.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2540.</td>
     <td>
     <a href='https://leetcode.com/problems/minimum-common-value/description'
