@@ -915,6 +915,19 @@
     </td>
 </tr>
 <tr>
+    <td>2816.</td>
+    <td>
+    <a href='https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description'
+    >Double a Number Represented as a Linked List</a>
+    <p>
+    <small>linked list | math | stack</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Linked_List\_2816_double_a_number_represented_as_a_lined_list.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2864.</td>
     <td>
     <a href='https://leetcode.com/problems/maximum-odd-binary-number/description'
