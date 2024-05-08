@@ -369,6 +369,19 @@
     </td>
 </tr>
 <tr>
+    <td>506.</td>
+    <td>
+    <a href='https://leetcode.com/problems/relative-ranks/description'
+    >Relative Ranks</a>
+    <p>
+    <small>array | sorting | Heap (priority queue)</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sorting\_0506_relative_ranks.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>513.</td>
     <td>
     <a href='https://leetcode.com/problems/find-bottom-left-tree-value/description'
