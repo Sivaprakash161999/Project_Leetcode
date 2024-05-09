@@ -1005,6 +1005,19 @@
     <a href='Python\Hash_Table\_3005_count_elements_with_maximum_frequency.py'>solution</a>
     </td>
 </tr>
+<tr>
+    <td>3075.</td>
+    <td>
+    <a href='https://leetcode.com/problems/maximize-happiness-of-selected-children/description'
+    >Maximize Happiness of Selected Children</a>
+    <p>
+    <small>array | sorting | greedy</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Sorting\_3075_maximum_happiness_of_selected_children.py'>solution</a>
+    </td>
+</tr>
 </table>
 
 <!-- <small>array  </small>
