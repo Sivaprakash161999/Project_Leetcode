@@ -460,6 +460,19 @@
     </td>
 </tr>
 <tr>
+    <td>783.</td>
+    <td>
+    <a href='https://leetcode.com/problems/k-th-smallest-prime-fraction/description'
+    >K-th Smallest Prime Fraction</a>
+    <p>
+    <small>array | two pointer | binary search | sorting | heapq(priority queue)</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Search\_0786_kth_smallest_prime_fraction.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>787.</td>
     <td>
     <a href='https://leetcode.com/problems/cheapest-flights-within-k-stops/description'
