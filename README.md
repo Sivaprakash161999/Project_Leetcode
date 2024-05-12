@@ -460,7 +460,7 @@
     </td>
 </tr>
 <tr>
-    <td>783.</td>
+    <td>786.</td>
     <td>
     <a href='https://leetcode.com/problems/k-th-smallest-prime-fraction/description'
     >K-th Smallest Prime Fraction</a>
@@ -860,6 +860,19 @@
     </td>
     <td>
     <a href='Python\Dynamic_Programming\_2370_longest_ideal_subsequence.py'>solution</a>
+    </td>
+</tr>
+<tr>
+    <td>2373.</td>
+    <td>
+    <a href='https://leetcode.com/problems/largest-local-values-in-a-matrix/description'
+    >Largest Local Values in a Matrix</a>
+    <p>
+    <small>array | matrix</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Matrix\_2373_largest_local_values_in_a_matrix.py'>solution</a>
     </td>
 </tr>
 <tr>
