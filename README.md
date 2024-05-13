@@ -512,6 +512,19 @@
     </td>
 </tr>
 <tr>
+    <td>861.</td>
+    <td>
+    <a href='https://leetcode.com/problems/score-after-flipping-matrix/description'
+    >Score After Flipping Matrix</a>
+    <p>
+    <small>array | matrix | greedy | bit manipulation</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Matrix\_0861_score_after_flipping_matrix.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>876.</td>
     <td>
     <a href='https://leetcode.com/problems/middle-of-the-linked-list/description'
