@@ -668,6 +668,19 @@
     </td>
 </tr>
 <tr>
+    <td>1219.</td>
+    <td>
+    <a href='https://leetcode.com/problems/path-with-maximum-gold/description'
+    >Path with Maximum Gold</a>
+    <p>
+    <small>array | backtracking | matrix</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Backtracking\_1219_path_with_maximum_gold.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1249.</td>
     <td>
     <a href='https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description'
