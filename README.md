@@ -980,6 +980,19 @@
     </td>
 </tr>
 <tr>
+    <td>2812.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-the-safest-path-in-a-grid/description'
+    >Find the Safest Path in a Grid</a>
+    <p>
+    <small>array | binary search | bfs | union find | matrix | dijkstra</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Matrix\_2812_find_the_safest_path_in_a_grid.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2816.</td>
     <td>
     <a href='https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description'
