@@ -876,6 +876,19 @@
     </td>
 </tr>
 <tr>
+    <td>2331.</td>
+    <td>
+    <a href='https://leetcode.com/problems/evaluate-boolean-binary-tree/description'
+    >Evaluate Boolear Binary Tree</a>
+    <p>
+    <small>tree | dfs | binary tree</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Tree\_2331_evaluate_boolean_binary_tree.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2370.</td>
     <td>
     <a href='https://leetcode.com/problems/longest-ideal-subsequence/description'
