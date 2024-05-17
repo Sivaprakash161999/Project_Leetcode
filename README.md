@@ -707,6 +707,19 @@
     </td>
 </tr>
 <tr>
+    <td>1325.</td>
+    <td>
+    <a href='https://leetcode.com/problems/delete-leaves-with-a-given-value/description'
+    >Delete Leaves With a Given Value</a>
+    <p>
+    <small>tree | dfs | binary tree</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Tree\_1325_delete_leaves_with_a_given_value.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>1481.</td>
     <td>
     <a href='https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/'>
