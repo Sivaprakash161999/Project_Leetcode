@@ -603,6 +603,19 @@
     </td>
 </tr>
 <tr>
+    <td>979.</td>
+    <td>
+    <a href='https://leetcode.com/problems/distribute-coins-in-binary-tree/description'
+    >Distribute Coins in Binary Tree</a>
+    <p>
+    <small>tree | dfs | binary tree</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Binary_Tree\_0979_distribute_coins_in_binary_tree.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>988.</td>
     <td>
     <a href='https://leetcode.com/problems/smallest-string-starting-from-leaf/description'
