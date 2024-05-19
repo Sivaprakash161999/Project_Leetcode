@@ -1110,6 +1110,19 @@
     </td>
 </tr>
 <tr>
+    <td>3068.</td>
+    <td>
+    <a href='https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description'
+    >Find the Maximum Sum of Node Values</a>
+    <p>
+    <small>array | sorting | greedy | tree | dynamic programming | bit manipulation</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Dynamic_Programming\_3068_find_the_maximum_sum_of_node_values.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>3075.</td>
     <td>
     <a href='https://leetcode.com/problems/maximize-happiness-of-selected-children/description'
