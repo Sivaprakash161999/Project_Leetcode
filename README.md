@@ -993,6 +993,19 @@
     </td>
 </tr>
 <tr>
+    <td>2486.</td>
+    <td>
+    <a href='https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description'
+    >Append Characters to String to Make Subsequence</a>
+    <p>
+    <small>two pointer | greedy | string</small>
+    </p>
+    </td>
+    <td>
+    <a href='Python\Two_Pointer\_2486_append_characters_to_string_to_make_subsequence.py'>solution</a>
+    </td>
+</tr>
+<tr>
     <td>2487.</td>
     <td>
     <a href='https://leetcode.com/problems/remove-nodes-from-linked-list/description'
